@@ -7,8 +7,7 @@ output:
     theme: cerulean
 ---
 
-#### Welcome! This is Pooja's Website for P8105 HW4. 
-
+#### Welcome! This is Pooja's Website for P8105 HW4.
 
 ![](images/Linked_In_Pic.jpg)
 
@@ -18,20 +17,13 @@ My name is Pooja Desai, I'm a third-year Ph.D. student in Biomedical Informatics
 
 ## Links
 
-* [My Github Repository](https://github.com/pmdesai)
-* [My Personal Website](https://www.poojamdesai.com/)
-
-
-
+-   [My Github Repository](https://github.com/pmdesai)
+-   [My Personal Website](https://www.poojamdesai.com/)
 
 ```{r}
 plot(cars)
-``` 
-
-
-
+```
 
 ```{r}
 
 ```
-
