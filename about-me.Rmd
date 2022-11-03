@@ -1,0 +1,18 @@
+---
+title: "About Me"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+![](images/Linked_In_Pic.jpg)
+
+# About
+
+My name is Pooja Desai, I'm a third-year Ph.D. student in Biomedical Informatics at Columbia University Irving Medical Center. I am advised by Dr. Lena Mamykina.
+
+My primary research is at the intersection of health informatics and human-computer interaction. My work focuses on developing human-centered AI tools to support maternal health, nutrition, and chronic disease management "in the wild".
+
+I'm particularly interested in context-aware computing, information visualization, and explainable AI systems to support personalized and sustained healthy decision-making. 
