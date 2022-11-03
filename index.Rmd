@@ -1,5 +1,5 @@
 ---
-title: "POOJA M. DESAI WEBSITE"
+title: "POOJA M. DESAI"
 output: 
   html_document:
     toc: true
@@ -7,9 +7,24 @@ output:
     theme: cerulean
 ---
 
-# This is Pooja's Website for P8105 HW4
+#### Welcome! This is Pooja's Website for P8105 HW4. 
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+
+
+# About
+
+My name is Pooja Desai, I'm a third-year Ph.D. student in Biomedical Informatics at Columbia University Irving Medical Center. I am advised by Dr. Lena Mamykina.
+
+My primary research is at the intersection of health informatics and human-computer interaction. My work focuses on developing human-centered AI tools to support maternal health, nutrition, and chronic disease management "in the wild".
+
+I'm particularly interested in context-aware computing, information visualization, and explainable AI systems to support personalized and sustained healthy decision-making. 
+
+
+## Links
+
+* [My Github Repository](https://github.com/pmdesai)
+* [My Personal Website](https://www.poojamdesai.com/)
 
 ```{r}
 plot(cars)
